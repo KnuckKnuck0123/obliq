@@ -1,6 +1,8 @@
 # obliq
 Obliq plug-in for Rhinoceros®. Provides utilities for working with oblique (military, cabinet, etc...) projections in a non-destructive way.
 
+![Project Screenshot](screenshot.PNG)
+
 # Installation (windows)
 1. Download RHP file from [https://github.com/criticalsoftware-lab/obliq/releases]
 2. Place in your Rhino 8 installation folder (C:\Program Files\Rhino 8\Plug-ins\)
