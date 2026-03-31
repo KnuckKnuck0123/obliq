@@ -33,4 +33,4 @@ Obliq plug-in for Rhinoceros®. Provides utilities for working with oblique (mil
 ## Contributors
 
 * **noahk** ([KnuckKnuck0123](https://github.com/KnuckKnuck0123)) — Modernized C# port for Rhino 8, macOS/Windows support.
-* **Galo Canizares** ([galocani](https://github.com/galocani)) — Original developer and researcher at [Critical Software Lab](https://github.com/criticalsoftware-lab).
+* **Galo Canizares** ([itsgalo](https://github.com/itsgalo)) — Original developer and researcher at [Critical Software Lab](https://github.com/criticalsoftware-lab).
