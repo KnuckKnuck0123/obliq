@@ -29,3 +29,8 @@ Obliq plug-in for Rhinoceros®. Provides utilities for working with oblique (mil
 **ObliqueMake2D** -> Generates a flat, 2D hidden-line drawing of the selected items (might take some time, depending on the amount of geometry).
 
 **ObliqueCurveMake2D** -> Takes a selection of curves and applies an oblique projection, flattening them onto the CPlane.
+
+## Contributors
+
+* **noahk** ([KnuckKnuck0123](https://github.com/KnuckKnuck0123)) — Modernized C# port for Rhino 8, macOS/Windows support.
+* **Galo Canizares** ([galocani](https://github.com/galocani)) — Original developer and researcher at [Critical Software Lab](https://github.com/criticalsoftware-lab).
