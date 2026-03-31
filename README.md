@@ -9,7 +9,7 @@ Obliq plug-in for Rhinoceros®. Provides utilities for working with oblique (mil
 * *Rhino 8*: Supported (Windows and macOS)
 * *Rhino 7*: In the works (experimental)
 
-![Project Screenshot](screenshot.PNG)
+![Project Screenshot](Screenshot%202026-03-30%20at%207.35.29%20PM.png)
 
 ## Installation (Rhino 8)
 
